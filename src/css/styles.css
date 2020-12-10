@@ -1,0 +1,11 @@
+.header-style,footer{
+    text-align: center;
+}
+
+body,.view{
+    height: 100%;
+}
+
+.navbar{
+    background-color: aliceblue;
+}
